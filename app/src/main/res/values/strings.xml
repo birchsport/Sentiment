@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sentiment</string>
+    <string name="action_settings">Search Term</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_clear_search">Clear Search</string>
+
+    <string name="twitter_consumer_key">ZKArtNdDFwUB9QChTewAkIQPx</string>
+    <string name="twitter_consumer_secret">	ixYyAwssTXc5bsWzdhH5S1sgXHknYhs4twHkrtjSSN5CIJX9v5</string>
+    <string name="twitter_callback">http://binarypoet.com/callback</string>
+    <string name="twitter_oauth_verifier">oauth_verifier</string>
+</resources>

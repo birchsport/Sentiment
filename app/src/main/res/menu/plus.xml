@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- "Mark Favorite", should appear as action button if possible -->
+    <item
+        android:id="@+id/action_plus"
+        android:icon="@android:drawable/ic_input_add"
+        android:title="Vote Up" />
+
+</menu>
